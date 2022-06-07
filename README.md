@@ -1,5 +1,5 @@
 ### 
-<h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, eu sou Bruno Leite</h1>
+<h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Bruno Leite</h1>
 ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
